@@ -1,0 +1,10 @@
+list files in this folder:
+--> diabetes.csv : dataset
+
+--> diabetes.py 
+
+--> GUI.py
+
+--> preprocess.py
+
+--> med.png
